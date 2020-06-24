@@ -1,0 +1,8 @@
+#Tomcat publish data
+#Tue Jun 02 16:12:45 GMT+01:00 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\E330\\dev-spring\\web-customer-tracker-aop\\WebContent\\WEB-INF\\lib\\spring-web-5.2.6.RELEASE.jar=WEB-INF/lib/spring-web-5.2.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\E330\\dev-spring\\web-customer-tracker-aop\\WebContent\\WEB-INF\\lib\\spring-web-5.2.6.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.6.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\E330\\dev-spring\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.2.6.RELEASE.jar=WEB-INF/lib/spring-web-5.2.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\E330\\dev-spring\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.2.6.RELEASE.jar=WEB-INF/lib/spring-web-5.2.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\E330\\dev-spring\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.2.6.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.6.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\E330\\dev-spring\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.2.6.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.6.RELEASE-sources.jar

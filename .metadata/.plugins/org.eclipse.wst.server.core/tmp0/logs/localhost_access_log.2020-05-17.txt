@@ -1,0 +1,13 @@
+127.0.0.1 - - [17/May/2020:21:48:31 +0100] "GET / HTTP/1.1" 404 631
+0:0:0:0:0:0:0:1 - - [17/May/2020:21:48:33 +0100] "GET /spring-mvc-demo/ HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [17/May/2020:21:48:36 +0100] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 200 683
+0:0:0:0:0:0:0:1 - - [17/May/2020:21:48:49 +0100] "POST /spring-mvc-demo/student/processForm HTTP/1.1" 200 182
+127.0.0.1 - - [17/May/2020:22:00:36 +0100] "GET / HTTP/1.1" 404 631
+0:0:0:0:0:0:0:1 - - [17/May/2020:22:00:37 +0100] "GET /spring-mvc-demo/ HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [17/May/2020:22:00:42 +0100] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 200 1059
+0:0:0:0:0:0:0:1 - - [17/May/2020:22:01:00 +0100] "POST /spring-mvc-demo/student/processForm HTTP/1.1" 200 216
+127.0.0.1 - - [17/May/2020:22:43:18 +0100] "GET / HTTP/1.1" 404 631
+0:0:0:0:0:0:0:1 - - [17/May/2020:22:43:19 +0100] "GET /spring-mvc-demo/ HTTP/1.1" 200 209
+0:0:0:0:0:0:0:1 - - [17/May/2020:22:43:23 +0100] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 200 1562
+0:0:0:0:0:0:0:1 - - [17/May/2020:22:43:44 +0100] "POST /spring-mvc-demo/student/processForm HTTP/1.1" 200 307
+0:0:0:0:0:0:0:1 - - [17/May/2020:22:43:52 +0100] "POST /spring-mvc-demo/student/processForm HTTP/1.1" 200 309
